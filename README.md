@@ -1,5 +1,6 @@
 <img src="art.svg" align="left" width="420" height="440" alt="ASCII portrait">
 
+
 ${\color{#2EA043}\texttt{noa@github}}\ {\color{#8B949E}\texttt{----------------------------}}$ <br>
 ${\color{#E36209}\texttt{Role:}}\ {\color{#8B949E}\texttt{...........}}\ {\color{#539BF5}\texttt{AI/ML Engineer}}$ <br>
 ${\color{#E36209}\texttt{Education:}}\ {\color{#8B949E}\texttt{......}}\ {\color{#539BF5}\texttt{M.Sc. in AI }\And\texttt{ ML}}$ <br>
