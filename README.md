@@ -11,7 +11,7 @@ ${\color{#E36209}\texttt{Deep Learning:}}\ {\color{#8B949E}\texttt{..}}\ {\color
 ${\color{#E36209}\texttt{Classical ML:}}\ {\color{#8B949E}\texttt{...}}\ {\color{#539BF5}\texttt{scikit-learn, LightGBM}}$ <br>
 ${\color{#E36209}\texttt{LLMs:}}\ {\color{#8B949E}\texttt{...........}}\ {\color{#539BF5}\texttt{HF, RAG, Fine-tuning}}$ <br>
 ${\color{#E36209}\texttt{Data/MLOps:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{pandas, Docker, W}\And\texttt{B}}$ <br>
-&nbsp; <br>
+${\color{#E36209}\texttt{Cloud:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{AWS (SageMaker)}}$<br>
 ${\color{#2EA043}\texttt{- Research}}\ {\color{#8B949E}\texttt{----------------------------}}$ <br>
 ${\color{#E36209}\texttt{Graphs:}}\ {\color{#8B949E}\texttt{.........}}\ {\color{#539BF5}\texttt{GNNs, Geometric DL}}$ <br>
 
