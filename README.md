@@ -14,8 +14,9 @@ ${\color{#E36209}\texttt{Data/MLOps:}}\ {\color{#8B949E}\texttt{.....}}\ {\color
 &nbsp; <br>
 ${\color{#2EA043}\texttt{- Research}}\ {\color{#8B949E}\texttt{----------------------------}}$ <br>
 ${\color{#E36209}\texttt{Graphs:}}\ {\color{#8B949E}\texttt{.........}}\ {\color{#539BF5}\texttt{GNNs, Geometric DL}}$ <br>
+
 &nbsp; <br>
-${\color{#2EA043}\texttt{- Contact}}\ {\color{#8B949E}\texttt{-----------------------------}}$ <br>
+${\color{#2EA043}\texttt{Contact:}}\ {\color{#8B949E}}$
 ${\color{#E36209}\texttt{LinkedIn:}}\ {\color{#8B949E}\texttt{.......}}$ [noa-car](https://www.linkedin.com/in/noa-car)
 
 <br clear="left"/>
