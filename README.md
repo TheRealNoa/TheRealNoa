@@ -1,22 +1,22 @@
-<img src="art.svg" align="left" width="420" alt="ASCII portrait">
+<img src="art.svg" align="left" width="420" height="440" alt="ASCII portrait">
 
-${\color{#2EA043}\texttt{noa@github}}\ {\color{#8B949E}\texttt{-------------------}}$ <br>
-${\color{#E36209}\texttt{OS:}}\ {\color{#8B949E}\texttt{.............}}\ {\color{#539BF5}\texttt{Windows 10}}$ <br>
-${\color{#E36209}\texttt{Host:}}\ {\color{#8B949E}\texttt{...........}}\ {\color{#539BF5}\texttt{M.Sc. in AI }\And\texttt{ ML}}$ <br>
-${\color{#E36209}\texttt{Kernel:}}\ {\color{#8B949E}\texttt{.........}}\ {\color{#539BF5}\texttt{AI/ML Engineer}}$ <br>
-${\color{#E36209}\texttt{IDE:}}\ {\color{#8B949E}\texttt{............}}\ {\color{#539BF5}\texttt{VS Code}}$ <br>
+${\color{#2EA043}\texttt{noa@github}}\ {\color{#8B949E}\texttt{----------------------------}}$ <br>
+${\color{#E36209}\texttt{Role:}}\ {\color{#8B949E}\texttt{...........}}\ {\color{#539BF5}\texttt{AI/ML Engineer}}$ <br>
+${\color{#E36209}\texttt{Education:}}\ {\color{#8B949E}\texttt{......}}\ {\color{#539BF5}\texttt{M.Sc. in AI }\And\texttt{ ML}}$ <br>
+${\color{#E36209}\texttt{Open to:}}\ {\color{#8B949E}\texttt{........}}\ {\color{#539BF5}\texttt{Freelance }\And\texttt{ contract}}$ <br>
 &nbsp; <br>
+${\color{#2EA043}\texttt{- Skills}}\ {\color{#8B949E}\texttt{------------------------------}}$ <br>
 ${\color{#E36209}\texttt{Languages:}}\ {\color{#8B949E}\texttt{......}}\ {\color{#539BF5}\texttt{Python, SQL, C++}}$ <br>
-${\color{#E36209}\texttt{AI/ML Frameworks:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{PyTorch, TensorFlow/Keras, scikit-learn, LightGBM}}$ <br>
-${\color{#E36209}\texttt{Data and MLOps:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{pandas, NumPy, SQL, Docker, Weights and Biases, Git}}$ <br>
-${\color{#E36209}\texttt{Interests:}}$
-${\color{#E36209}\texttt{Graphs and geometry:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{GNNs, Geometric DL, Knowledge Graphs}}$
-${\color{#E36209}\texttt{LLMs:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{Transformers, LLMs, RAG, Fine-tuning}}$
-${\color{#E36209}\texttt{Trustworthy AI:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{Interpretability, Explainable AI, AI Safety, Fairness}}$ <br>
-${\color{#E36209}\texttt{Learning:}}\ {\color{#8B949E}\texttt{.......}}\ {\color{#539BF5}\texttt{constantly}}$ <br>
+${\color{#E36209}\texttt{Deep Learning:}}\ {\color{#8B949E}\texttt{..}}\ {\color{#539BF5}\texttt{PyTorch, TF/Keras}}$ <br>
+${\color{#E36209}\texttt{Classical ML:}}\ {\color{#8B949E}\texttt{...}}\ {\color{#539BF5}\texttt{scikit-learn, LightGBM}}$ <br>
+${\color{#E36209}\texttt{LLMs:}}\ {\color{#8B949E}\texttt{...........}}\ {\color{#539BF5}\texttt{HF, RAG, Fine-tuning}}$ <br>
+${\color{#E36209}\texttt{Data/MLOps:}}\ {\color{#8B949E}\texttt{.....}}\ {\color{#539BF5}\texttt{pandas, Docker, W}\And\texttt{B}}$ <br>
 &nbsp; <br>
-${\color{#2EA043}\texttt{- Contact}}\ {\color{#8B949E}\texttt{--------------------}}$ <br>
-${\color{#E36209}\texttt{LinkedIn:}}\ {\color{#8B949E}\texttt{.......}}$ [noa-car](https://www.linkedin.com/in/noa-car) <br>
-&nbsp;
+${\color{#2EA043}\texttt{- Research}}\ {\color{#8B949E}\texttt{----------------------------}}$ <br>
+${\color{#E36209}\texttt{Graphs:}}\ {\color{#8B949E}\texttt{.........}}\ {\color{#539BF5}\texttt{GNNs, Geometric DL}}$ <br>
+${\color{#E36209}\texttt{Trustworthy AI:}}\ {\color{#8B949E}\texttt{.}}\ {\color{#539BF5}\texttt{XAI, AI Safety}}$ <br>
+&nbsp; <br>
+${\color{#2EA043}\texttt{- Contact}}\ {\color{#8B949E}\texttt{-----------------------------}}$ <br>
+${\color{#E36209}\texttt{LinkedIn:}}\ {\color{#8B949E}\texttt{.......}}$ [noa-car](https://www.linkedin.com/in/noa-car)
 
 <br clear="left"/>
